@@ -31,6 +31,7 @@
 
             pluto = Console.ReadLine();
 
+            //commento
 
             Console.WriteLine($"Hai scritto '{pluto}'");
 
